@@ -15,6 +15,7 @@ A local tool to automate repetitive filtering of .xlsx, .xlsm, and .csv files. C
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](#).
+All thanks to google ai studio
 
 ## 📄 License
 
